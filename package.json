@@ -1,0 +1,17 @@
+{
+  "name": "sandspotz",
+  "version": "0.0.1",
+  "description": "beach parking",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "author": "P. Sykes",
+  "license": "SEE LICENSE IN LICENSE",
+  "dependencies": {
+    "bunyan": "^1.8.1",
+    "dotenv": "^2.0.0",
+    "hapi": "^13.3.0",
+    "inert": "^3.2.0"
+  }
+}
